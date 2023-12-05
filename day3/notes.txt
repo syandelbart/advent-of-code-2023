@@ -1,0 +1,1 @@
+- Used a regex to loop over the entire text, which made some numbers concatenate from different rows
