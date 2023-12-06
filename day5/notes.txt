@@ -1,0 +1,1 @@
+- The first solution to ex-1 didnt work because the numbers were to large and I created an entire mapping - FIX : not using a map, just checking if the current value is in the range of any mapping when calculating
